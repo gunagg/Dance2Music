@@ -1,5 +1,6 @@
 # DanceToMusic
 ​
+## [Paper link](https://arxiv.org/abs/2107.06252).  
 This repo requires OpenPose for running on GPU and OpenVINO for running on CPU.  
 To install OpenPose follow the instructions given [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#compiling-and-running-openpose-from-source). Make sure to enable the `BUILD_PYTHON` flag while installing.    
 To install OpenVINO follow the instructions given [here](https://docs.openvinotoolkit.org/latest/installation_guides.html).  
