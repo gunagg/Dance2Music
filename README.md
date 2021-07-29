@@ -29,3 +29,13 @@ Can be run on a CPU -
 ```
 python Dance2Music_openvino.py --input video_fname
 ```
+## For offline music generation -   
+```
+cd offline
+bash launch.sh /path/to/inp/dir /path/to/out/dir
+```
+Example script -  
+```
+cd offline
+bash launch.sh test_videos out_results
+```
